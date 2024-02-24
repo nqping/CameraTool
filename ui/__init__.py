@@ -1,0 +1,2 @@
+def SignInWidget():
+    return None
